@@ -16,4 +16,4 @@ Schedule your new batch.
 Add more and more batches.
 ScreenShots
 <img width="1366" height="620" alt="image" src="https://github.com/user-attachments/assets/fa3dff7f-d482-4472-b561-e25e5cfe2593" />
-<img width="1366" height="620" alt="image" src="https://github.com/user-attachments/assets/f5051c37-f3c6-49e2-adf4-450d53df0321" />
+
